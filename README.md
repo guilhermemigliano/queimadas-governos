@@ -10,7 +10,7 @@ Devido ao tamanho dos arquivos os dados foram hospedados em outro servidor e pod
 
 ## Autores
 -  Felipe Augusto Carolino
--  Guilherme de Polli Migliano
+-  Guilherme De Polli Migliano
 
 ## Fonte
 > [INPE](http://queimadas.dgi.inpe.br/queimadas/dados-abertos/)
